@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SpatialSDK_Config
   m_EditorClassIdentifier: 
   configVersion: 2
-  sku: 
+  sku: 63aeadba5ffaa20001720ec3
   packageName: Starter Environment
   description: Add a description here
   packageType: 0
