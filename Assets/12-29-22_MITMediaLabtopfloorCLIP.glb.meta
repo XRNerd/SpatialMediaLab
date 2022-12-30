@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: beb1a80442e7e9c4ca83f54d26041c08
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1Black
+    second: {fileID: 2100000, guid: c71e3c1ae47b84645b5cb53f0567e25e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1Walls
+    second: {fileID: 2100000, guid: 60df260aabde7bd41879deb8239b8675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1auditoriumfrontwalls
+    second: {fileID: 2100000, guid: ae2cdadfe8d49e74d91a90e93d3f7428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1auditoriumfrontwalls.001
+    second: {fileID: 2100000, guid: 404f32880503d9d49bbb793f6acfc18a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1blindsTransparent
+    second: {fileID: 2100000, guid: 91a63ed33c353ff46abd86779fbcd889, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1buildingTrim
+    second: {fileID: 2100000, guid: fe8ca6a8f18340b4582f77721cbdbfd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1buildingexterior
+    second: {fileID: 2100000, guid: 9f72bbb03d455e6428e1749195ed5f0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1carpetExhibitRoom
+    second: {fileID: 2100000, guid: 16eea7934d439e64b883536d93fe19ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1chrome
+    second: {fileID: 2100000, guid: f7a50437373e36b4f822d60a0f96ce93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1darkGray
+    second: {fileID: 2100000, guid: 8760e598beda343468b703f33b0380c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1floorTrim
+    second: {fileID: 2100000, guid: 19ea26fc2762f6c49b76923f55c5fce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1floorTrimDarkGray
+    second: {fileID: 2100000, guid: 00f26a6e182793b4ab3c6166c5731086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1gray
+    second: {fileID: 2100000, guid: 6aba8e3bdc057dd4e932c88942f35c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1grayDoors
+    second: {fileID: 2100000, guid: 88ca20dbbbe98bf499dacb635cff4c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1lightGray
+    second: {fileID: 2100000, guid: 859f856437d47ab43b351d5372b434d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1lightGray.001
+    second: {fileID: 2100000, guid: 39a7450b73111374c953bd581b2fe582, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1mediumGray
+    second: {fileID: 2100000, guid: 25d546d7507e7a14ea43bb79b53ac72b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1white
+    second: {fileID: 2100000, guid: 4332f3625115edf4983352fd3c8f669a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1windowFrames
+    second: {fileID: 2100000, guid: 611089c33d873f24aa6941e59c3fda23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_material
+    second: {fileID: 2100000, guid: 3df6d850598210d4896e8725e399e0be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: a953c0236d66ba9428bcae4d276da377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutdoorDeck
+    second: {fileID: 2100000, guid: 57540c13774199a4c99971ea904addc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV
+    second: {fileID: 2100000, guid: f6fc13cc2314b744580571928e79836a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: auditoriumfloor
+    second: {fileID: 2100000, guid: de08f0f40f98347499e0c19ccd7c6e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.InteriorDoors
+    second: {fileID: 2100000, guid: 34e68031a1494c44fbdf527ef99a6758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass2
+    second: {fileID: 2100000, guid: 05971ddc73f000c42a565d779247b80a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive
+    second: {fileID: 2100000, guid: b2f3d1590b5f0ee4eb1b118d6f1602a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood floor
+    second: {fileID: 2100000, guid: e91b22727f6d70f4dbc4e916d3a906ea, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: OutsideDeck_Diffuse
+    second: {fileID: 2800000, guid: ac4b45841ee1c1a46a3b32852e010706, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor_5thFloor
+    second: {fileID: 2800000, guid: 77f62b70e15103e478897ca2f0eed882, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: auditoriumInteriorShell.010_Bake1_PBR_Diffuse
+    second: {fileID: 2800000, guid: d68b8fff3d578db46aee182ba5b347de, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: auditoriumWalls
+    second: {fileID: 2800000, guid: db23167064ef489448a12b92c5927a26, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
