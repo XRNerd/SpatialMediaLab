@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: e3dedd060407ff847b6c6562bbc9d4e1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1Black
+    second: {fileID: 2100000, guid: 66bc0bc7cf66f9c45920ef86108b9be5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1Walls
+    second: {fileID: 2100000, guid: 82b38f1eccf81684194e0ffc283ac979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1auditoriumfrontwalls
+    second: {fileID: 2100000, guid: 5839dc09ea7ccce4f98d05597f8e4550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1auditoriumfrontwalls.001
+    second: {fileID: 2100000, guid: 98cd92ce4c9135b498a316782d9b56d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1blinds
+    second: {fileID: 2100000, guid: b10f153da0b7cf244810109a6868c7cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1blindsTransparent
+    second: {fileID: 2100000, guid: 13ae9cc77a792464da3004e493718222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1buildingTrim
+    second: {fileID: 2100000, guid: 2887ba677dce9964d9769e20d93a89af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1buildingexterior
+    second: {fileID: 2100000, guid: 02caa5e77d95eb24fa98af41c784df58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1carpetExhibitRoom
+    second: {fileID: 2100000, guid: 4c294604073e3d144bf34328c43e172d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1chrome
+    second: {fileID: 2100000, guid: bb8cb9e18f268e843a257a3085c66050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1darkGray
+    second: {fileID: 2100000, guid: 055c85cda1df9b14cb810e265bffbc3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1floorTrim
+    second: {fileID: 2100000, guid: b8a2f737ab145fc4b9b5d25d1c4df333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1floorTrimDarkGray
+    second: {fileID: 2100000, guid: 91a3a2fa2b34ed14592b7c47b81c4ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1gray
+    second: {fileID: 2100000, guid: 6482655c0cdf86b4094ac2914e5a95bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1grayDoors
+    second: {fileID: 2100000, guid: 674c92ea24f22d140827eed82c1c8955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1lightGray
+    second: {fileID: 2100000, guid: a4051dab40b0f3b4fafa50eb85fb7319, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1lightGray.001
+    second: {fileID: 2100000, guid: 003f1d8c8b8e69641aba5c0c90485e4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1lighterGray
+    second: {fileID: 2100000, guid: 687329b5e0a467049ae6cb1c8e1795d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1mediumGray
+    second: {fileID: 2100000, guid: 3357df47c783890458a35854f87fed42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1pavement
+    second: {fileID: 2100000, guid: 4cd4c48f4cae4df488689a2e10b43eeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1white
+    second: {fileID: 2100000, guid: ac73a9787a1d69245a5c6200531b677c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1windowFrames
+    second: {fileID: 2100000, guid: 15d3a857b926e4d46819c9e7054ee76c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: c7437b7186ddd544e9a696161c49e581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt
+    second: {fileID: 2100000, guid: ddfcb74752e176642b5d3e24297bbbd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_material
+    second: {fileID: 2100000, guid: 3f1a7b94ac67828428eb7bbb49f5fc59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_material
+    second: {fileID: 2100000, guid: a93014dd1bcf7524dbd700bb3d4c6f26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: c691d20788730f940b9332894927354c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutdoorDeck
+    second: {fileID: 2100000, guid: 8969d2b2e5dda4c4faad86296567807e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ProjectionWall1
+    second: {fileID: 2100000, guid: 458202e9cb644834aaca0536dfff8bfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_-_Root
+    second: {fileID: 2100000, guid: c328ea6e1098ec34eb696e3357e1e060, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk
+    second: {fileID: 2100000, guid: ac07b7bbfa5da4147a7faedba0441e24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: fd7ca5974c17d914db6202976924b22d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV
+    second: {fileID: 2100000, guid: acf42f56296ffd34796d2ae0ddbea638, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZOLOTO
+    second: {fileID: 2100000, guid: 44781141c3d7e814e8c5948c7358ffe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: auditoriumfloor
+    second: {fileID: 2100000, guid: 1147df1151dec4e439335e7d93ac4593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.InteriorDoors
+    second: {fileID: 2100000, guid: d170c1cb6a18de2498fb609be42fcb74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass2
+    second: {fileID: 2100000, guid: ec800cae92f757f41866214b81ac9f45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive
+    second: {fileID: 2100000, guid: cf14f1b3eda073241ade3d06207f46d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.009
+    second: {fileID: 2100000, guid: edbb4601bec4dbd4192e50004ad61c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.010
+    second: {fileID: 2100000, guid: bcd33098c2e7ac64b814106a3dd5a933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.011
+    second: {fileID: 2100000, guid: e9e67b2aebd1afd4a88986c02e31df91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.014
+    second: {fileID: 2100000, guid: 387413a59b26be447a37525714cbc312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.015
+    second: {fileID: 2100000, guid: afc142f86ec9d024eb010b94fd1b3cdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.017
+    second: {fileID: 2100000, guid: 0730b9f6bdf08ba48aadd2f3d05be45b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.018
+    second: {fileID: 2100000, guid: d7c033d92fa6b924d9a048638e08996c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.019
+    second: {fileID: 2100000, guid: 219e160813cc6fb419482de7323185b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.021
+    second: {fileID: 2100000, guid: 68f6996d9e344e343b5c0abde25468fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.024
+    second: {fileID: 2100000, guid: 920ec01c1899db644822c9100bb2d9a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.027
+    second: {fileID: 2100000, guid: fdd2cb4a706cba445be2511c5fbd647e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.028
+    second: {fileID: 2100000, guid: e5a9724270701f541b5fc0ecf89b6a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette
+    second: {fileID: 2100000, guid: 631ea7dd0e1e011469e1857cc2cf6072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plants
+    second: {fileID: 2100000, guid: 8a57bbd597067d44ea17872c5590d145, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: ZOLOTO_baseColor
+    second: {fileID: 2800000, guid: b2249c8660881e74fa47fc7ff12ad062, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: ZOLOTO_metallicRoughness.standard
+    second: {fileID: 2800000, guid: 6a5b7bfb7edc73542b7466fe94e3956c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: ZOLOTO_normal.normal
+    second: {fileID: 2800000, guid: 52768e29f8b1a054796558688a9cb7ca, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: auditoriumWalls
+    second: {fileID: 2800000, guid: e27d9a2c9ba533a4c888b862ace10a75, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 1
