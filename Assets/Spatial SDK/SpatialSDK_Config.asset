@@ -14,17 +14,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   configVersion: 2
   sku: 63aeadba5ffaa20001720ec3
-  packageName: Starter Environment
-  description: Add a description here
+  packageName: Media Lab
+  description: MIT Reality Hack Space
   packageType: 0
   environment:
     useCases: []
     variants:
-    - name: MediaLab
-      id: 99c9720ab356a0642a771bea13969a05
-      scene: {fileID: 102900000, guid: f70ba56df2cf07243b0fcb8ec0fcc1e4, type: 3}
+    - name: MediaLabDay1
+      id: edc9a18afe134f22a8d82a65d6e24900
+      scene: {fileID: 102900000, guid: 1492f7f4d90b72446bdc7dbcc0561f91, type: 3}
       thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
       miniThumbnail: {fileID: 0}
-      thumbnailColor: {r: 0.6603774, g: 0.6603774, b: 0.6603774, a: 1}
+      thumbnailColor: {r: 0.65395516, g: 0, b: 0.9056604, a: 1}
+    - name: MediaLabDay2
+      id: 99c9720ab356a0642a771bea13969a05
+      scene: {fileID: 102900000, guid: c1bf21030bf7ccd478d0a6af8fffcd68, type: 3}
+      thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
+      miniThumbnail: {fileID: 0}
+      thumbnailColor: {r: 0.0053444714, g: 0, b: 0.8867924, a: 1}
+    - name: MediaLabEmpty
+      id: 73c30815286e4ac8b135a522eb45d6ac
+      scene: {fileID: 102900000, guid: 17b88809735c009438a7164c2164a3d7, type: 3}
+      thumbnail: {fileID: 2800000, guid: e599eb4fdf483e143a646e36425d7a07, type: 3}
+      miniThumbnail: {fileID: 0}
+      thumbnailColor: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
+    - name: MediaLabIHQ
+      id: 305f8c8917984a3cb29f4789951f86e8
+      scene: {fileID: 102900000, guid: 761f82bf177b3a64081c37f2ac6b0a41, type: 3}
+      thumbnail: {fileID: 2800000, guid: e599eb4fdf483e143a646e36425d7a07, type: 3}
+      miniThumbnail: {fileID: 0}
+      thumbnailColor: {r: 0.09433961, g: 0.09433961, b: 0.09433961, a: 1}
   deprecated_usageType: 0
   deprecated_environmentVariants: []

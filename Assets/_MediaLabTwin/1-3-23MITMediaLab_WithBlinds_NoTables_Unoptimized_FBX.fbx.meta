@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: fd4ac6c9bcba9924e974f915ade74f9c
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1Black
+    second: {fileID: 2100000, guid: 1639ed35b70ec9d40a3f189123727217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1Walls
+    second: {fileID: 2100000, guid: 1137bb0a7c489824482b6c4a36ec86e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1auditoriumfrontwalls
+    second: {fileID: 2100000, guid: 8018a3b209fb33b4bb4a94b49082b81d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1auditoriumfrontwalls.001
+    second: {fileID: 2100000, guid: c6a1234887fd2004e9ef0460ebd97834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1blinds
+    second: {fileID: 2100000, guid: db65092d89fdbab4c85b2283568ce70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1blindsTransparent
+    second: {fileID: 2100000, guid: 6df18145456c17c4c8a949e8b5a78c95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1buildingTrim
+    second: {fileID: 2100000, guid: 2271133ad5c5cfa429768703aa8f1109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1buildingexterior
+    second: {fileID: 2100000, guid: 8109998d0944eb84b9c07242e0fc3b23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1carpetExhibitRoom
+    second: {fileID: 2100000, guid: 9b49b388ac2291d4cb240b5e60471ac0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1chrome
+    second: {fileID: 2100000, guid: 9d85ad99e73136340934de0a14f6fe89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1darkGray
+    second: {fileID: 2100000, guid: f0923cb4f79623342901f21442df5db5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1darkgray
+    second: {fileID: 2100000, guid: e6dcbede6bc9ed84b9ad2b5c5441e380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1floorTrim
+    second: {fileID: 2100000, guid: d5e86cd00fb141141b36f074451d4761, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1floorTrimDarkGray
+    second: {fileID: 2100000, guid: a4ac7ad4d90cbd34386e86c54f49f88b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1gray
+    second: {fileID: 2100000, guid: 7de9c1f299159964eb09b43f75d0929d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1grayDoors
+    second: {fileID: 2100000, guid: 73a502715b31b994db01e33b1b9d6771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1lightGray
+    second: {fileID: 2100000, guid: e20cb980b627900438f8e4a2362e8a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1lightGray.001
+    second: {fileID: 2100000, guid: 87f52a40c22d3df40b521df15e1bc594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1lighterGray
+    second: {fileID: 2100000, guid: 67f96c7ca7a2cc947b8a79ffba10cd66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1mediumGray
+    second: {fileID: 2100000, guid: 5661d68872621a74e89aa3c2b93d1ae2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1pavement
+    second: {fileID: 2100000, guid: 0cf43eeb49c47ae47a97bbeea8044c09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1white
+    second: {fileID: 2100000, guid: b3fc79990059800428dedc8fd2fea0b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1windowFrames
+    second: {fileID: 2100000, guid: 9fa491ec0b68075419c2c6b6a44729f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt
+    second: {fileID: 2100000, guid: 43d13598e34c49c419c1fb8756430931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_material
+    second: {fileID: 2100000, guid: ada8fd800ce80f34d98a25960a549177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_material
+    second: {fileID: 2100000, guid: 703f364fc81d6754787f6b1f458c6b4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: ad26071087e9d894899cf9cc911267e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutdoorDeck
+    second: {fileID: 2100000, guid: d4615abc914608b409712ec026e14549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RemoveMe_
+    second: {fileID: 2100000, guid: 02147da0572942841af234a08d5347e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk
+    second: {fileID: 2100000, guid: b76b07ce9b4917846bb0f0daafaeb13e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV
+    second: {fileID: 2100000, guid: 415cfe63a4cb8f64a815924b7bc6dca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: auditoriumfloor
+    second: {fileID: 2100000, guid: 582b65c16d456004191e1a1915294904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.InteriorDoors
+    second: {fileID: 2100000, guid: 8f1311601612a014c9d4a008c1f6ac72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass2
+    second: {fileID: 2100000, guid: cb7c76de46d55a94d94af41bea2e5357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green
+    second: {fileID: 2100000, guid: ac43322c56ac88d4bbd487d4cc13e3be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive
+    second: {fileID: 2100000, guid: 48003145531ce7e48b269c1b45c81c93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightEmissive.010
+    second: {fileID: 2100000, guid: 560707b96b3a8e9449f5f79cb0de6e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plants
+    second: {fileID: 2100000, guid: 6797712be0f8e2241acd962b12007b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood floor
+    second: {fileID: 2100000, guid: 237b8ab6bc65c3e49b87687a7856832c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
